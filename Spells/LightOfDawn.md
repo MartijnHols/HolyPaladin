@@ -1,6 +1,6 @@
 # Light of Dawn
 
-[![Tooltip](https://user-images.githubusercontent.com/4565223/39841451-0ac84f44-53e3-11e8-9028-3a335e68c75b.png)](https://beta.wowdb.com/spells/214202-rule-of-law)
+[![image](https://user-images.githubusercontent.com/4565223/39842079-6d1b89a2-53e5-11e8-8fab-fceccdf7070c.png)](https://beta.wowdb.com/spells/85222-light-of-dawn)
 
 - Baseline
 - Heal (up to 5 targets)

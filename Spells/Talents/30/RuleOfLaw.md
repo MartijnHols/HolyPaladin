@@ -1,6 +1,6 @@
 # Rule of Law
 
-![Tooltip]()
+[![Tooltip](https://user-images.githubusercontent.com/4565223/39841451-0ac84f44-53e3-11e8-9028-3a335e68c75b.png)](https://beta.wowdb.com/spells/214202-rule-of-law)
 
 Tier 30 talent | **Not** on GCD | 0 mana
 
