@@ -2,7 +2,7 @@
 
 ![Tooltip]()
 
-Baseline | Utility | 3,000 mana
+Baseline | Utility | External | 3,000 mana
 
 ## About
 
