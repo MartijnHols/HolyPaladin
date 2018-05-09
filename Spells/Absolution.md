@@ -2,7 +2,11 @@
 
 ![Tooltip]()
 
-Baseline | Utility | 800 mana
+- Baseline
+- Utility (resurrection)
+- Self-cast AoE
+- 800 mana
+- Cast time - reduced by Haste
 
 ## About
 

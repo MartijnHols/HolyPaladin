@@ -2,7 +2,11 @@
 
 ![Tooltip]()
 
-Baseline | Buff | 0 mana
+- Baseline
+- Buff (permanent)
+- Any ally
+- 500 mana
+- Instant - GCD
 
 ## About
 
