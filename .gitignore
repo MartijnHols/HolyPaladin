@@ -1,0 +1,10 @@
+# IDE stuff
+/.idea
+/.vscode
+/.vs
+
+# misc
+.DS_Store
+temp
+.tmp
+.sass-cache
