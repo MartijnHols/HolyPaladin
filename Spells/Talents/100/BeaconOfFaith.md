@@ -6,8 +6,7 @@
 - Buff
 - Passive (mostly uncast during combat)
 - 625 mana
-- Instant
-- GCD
+- Instant - GCD
 
 ## About
 

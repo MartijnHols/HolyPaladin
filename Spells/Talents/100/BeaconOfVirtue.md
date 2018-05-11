@@ -6,8 +6,7 @@
 - Buff
 - Active
 - 2,000 mana
-- Instant
-- GCD
+- Instant - GCD
 
 ## About
 

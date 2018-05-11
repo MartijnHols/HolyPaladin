@@ -7,8 +7,7 @@
 - Active
 - 0 mana
 - **Static** cooldown (unaffected by Haste)
-- Instant
-- GCD
+- Instant - GCD
 
 ## About
 
