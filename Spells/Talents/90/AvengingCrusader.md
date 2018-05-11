@@ -17,4 +17,6 @@ Increases the damage done by [Crusader Strike](../../CrusaderStrike.md), [Judgme
 
 The cooldown recovery rate of [Crusader Strike](../../CrusaderStrike.md) and [Judgment](../../Judgment.md) is increased by 30%. This happens in-game by making every 1 second of cooldown elapse in 0.7 seconds (the cooldown ticks are quicker). The CDR also applies to abilities already on cooldown when AC is cast.
 
-[Crusader Strike](../../CrusaderStrike.md) and [Judgment](../../Judgment.md) heal up to 3 injured allies for 175% of the damage dealt with those abilities. Target selection is **not** a [smart heal](https://wow.gamepedia.com/Smart_spell). It picks up to 3 injured allies at random, regardless of the health they're missing. If there are fewer than 3 injured players, it will randomly select full health players. The max range of the heals is 40 yards, which is unaffected by [Rule of Law](../30/RuleOfLaw.md).
+[Crusader Strike](../../CrusaderStrike.md) and [Judgment](../../Judgment.md) heal up to 3 injured allies for 175% of the damage dealt with those abilities. This healing is also replicated to beacons.
+
+Target selection is **not** a [smart heal](https://wow.gamepedia.com/Smart_spell). It picks up to 3 injured allies at random, regardless of the health they're missing. If there are fewer than 3 injured players, it will randomly select full health players. The max range of the heals is 40 yards, which is unaffected by [Rule of Law](../30/RuleOfLaw.md).
