@@ -1,8 +1,10 @@
 # Divine Shield
 
-![Tooltip]()
+[![Tooltip](https://user-images.githubusercontent.com/4565223/39912333-b11dd776-54fe-11e8-8366-d583b9568c77.png)](https://beta.wowdb.com/spells/642-divine-shield)
 
-Baseline | Personal DR | 0 mana
+- Baseline
+- Personal immunity
+- 0 mana
 
 ## About
 
