@@ -10,4 +10,19 @@
 
 ## About
 
-Places a beacon on a target, transfering a percentage of your **raw healing done** to this target. Healing your [Beacon of Light](https://www.wowhead.com/spell=53563) target directly with [Flash of Light](https://www.wowhead.com/spell=19750) or [Holy Light](https://www.wowhead.com/spell=82326) will refund some of it's mana cost, but is generally less efficient due to missing out on the beacon transfer healing.
+Places a beacon on a target, transfering a percentage of your **raw healing done** to this target. Healing your [Beacon of Light](https://www.wowhead.com/spell=53563) target directly with [Flash of Light](https://www.wowhead.com/spell=19750) or [Holy Light](https://www.wowhead.com/spell=82326) will not also transfer healing to that same target's beacon, but will instead refund some of its mana cost. It is generally less efficient to directly heal a beacon target due to missing out on the beacon transfer healing.
+
+AoE spells transfer healing to beacons at a reduced 50% efficiency. The exact efficiency amounts are:
+
+| Spell | Efficiency |
+| ----- | ---------: |
+| Holy Shock | 100% |
+| Light of Dawn | 50% |
+| Holy Light | 100% |
+| Flash of Light | 100% |
+| Holy Prism | 50% |
+| Light's Hammer | 50% |
+| Tyr's Deliverance | 100% |
+| Bestow Faith | 100% |
+| Light of the Martyr (Maraad's) | 100% |
+| Avenging Crusader | 100% |
