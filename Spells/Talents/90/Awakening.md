@@ -15,8 +15,8 @@ If [Avenging Wrath](../../AvengingWrath.md) is active while Awakening procs, it 
 
 With an average of 5 [Light of Dawn](../../LightOfDawn.md) casts per minute, on average Awakening will proc once every 1 minute and 20 seconds.
 
-While each proc lasts 10 seconds (12.5% uptime), the first GCD will go to the LoD that triggered it. If we assume 15% Haste the GCD will be about 1.3seconds (`1.5 / (1 + 0.15)`). This means the first 1.3 seconds of the buff is wasted, leaving 8.7 seconds effectively.
+While each proc lasts 10 seconds (12.5% uptime), the first GCD will go to the LoD that triggered it. If we assume 15% Haste the GCD will be about 1.3seconds (`1.5s / (100% + 15%)`). This means the first 1.3 seconds of the buff is wasted, leaving 8.7 seconds effectively.
 
-In those 8.7 seconds, we can cast `8.7 / 1.3 =` 6.69 GCDs. But there's no such thing as a partial global we can actually only cast 6 GCDs during the buff. This leaves `6 * 1.3sec =` 7.8 sec of effective uptime, or `7.8 / 80 =` 9.75%.
+In those 8.7 seconds, we can cast `8.7s / 1.3s =` 6.69 GCDs. But there's no such thing as a partial global we can actually only cast 6 GCDs during the buff. This leaves `6gcd * 1.3sec =` 7.8 sec of effective uptime, or `7.8s / 80s =` 9.75%.
 
 The gain will be slightly better when using talents such as [Judgment of Light](../75/JudgmentOfLight.md), [Bestow Faith](../15/BestowFaith.md), [Light's Hammer](../15/LightsHammer.md) and [Aura of Mercy](../60/AuraOfMercy.md) because their healing can also occur while waiting on the initial/final GCD.
