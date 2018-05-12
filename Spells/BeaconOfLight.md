@@ -20,7 +20,8 @@ AoE spells transfer healing to beacons at a reduced 50% efficiency. The exact ef
 | Light of Dawn | 50% |
 | Holy Light | 100% |
 | Flash of Light | 100% |
-| Holy Prism | 50% |
+| Holy Prism (@enemy) | 50% |
+| Holy Prism (direct healing friendly) | 100% |
 | Light's Hammer | 50% |
 | Tyr's Deliverance | 100% |
 | Bestow Faith | 100% |
