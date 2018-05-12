@@ -20,3 +20,14 @@ The cooldown recovery rate of [Crusader Strike](../../CrusaderStrike.md) and [Ju
 [Crusader Strike](../../CrusaderStrike.md) and [Judgment](../../Judgment.md) heal up to 3 injured allies for 175% of the damage dealt with those abilities. This healing is also replicated to beacons.
 
 Target selection is **not** a [smart heal](https://wow.gamepedia.com/Smart_spell). It picks up to 3 injured allies at random, regardless of the health they're missing. If there are fewer than 3 injured players, it will randomly select full health players. The max range of the heals is 40 yards, which is unaffected by [Rule of Law](../30/RuleOfLaw.md).
+
+## Interactions
+
+| Effect | Applicable | Explanation |
+| ------ | :--------: | ----------- |
+| Beacon transfers | 100% | Single target efficiency |
+| Intellect | ✔ | CS/J scale with Intellect |
+| Critical Strike | ✔ | If CS/J crit, the heal also [increases](https://user-images.githubusercontent.com/4565223/39959723-1ed3419e-5616-11e8-8986-6d66202f691f.png) |
+| Haste | ✔ | Static cooldown, but Haste allows you to cast more spells that transfer |
+| Mastery | ✖ | CS/J and AC's heal do not scale with Mastery |
+| Versatility | ✔ | CS/J scale with Versatility |
