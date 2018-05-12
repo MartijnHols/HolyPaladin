@@ -33,4 +33,4 @@ To get the total gain from Avenging Wrath we can multiply the two values giving 
 
 - Swapping to Avenging Crusader while Avenging Wrath is on cooldown, allows you to cast AC right away #1
 - The critical strike gain is not shown in the character pane.
-- [Sanctified Wrath](Talents/90/SanctifiedWrath.md) does not currently work at all.
+- [Sanctified Wrath](Talents/90/SanctifiedWrath.md) does not currently apply the HS cooldown reduction.
