@@ -33,3 +33,8 @@ You can use [this spreadsheet](https://docs.google.com/spreadsheets/d/1rkdTSbG3k
 | Haste | ✔ | Static cooldown, but Haste allows you to cast more spells that transfer |
 | Mastery | ❌ | CS/J and AC's heal do not scale with Mastery |
 | Versatility | ✔ | CS/J scale with Versatility |
+
+## Bugs
+
+- Swapping to Avenging Crusader while [Avenging Wrath](../../AvengingWrath.md) is on cooldown, allows you to cast AC right away #1
+- Avenging Crusader has inconsistent transfer rates #3
