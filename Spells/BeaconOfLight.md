@@ -10,7 +10,9 @@
 
 ## About
 
-Places a beacon on a target, transfering a percentage of your **raw healing done** to this target. Healing your [Beacon of Light](https://www.wowhead.com/spell=53563) target directly with [Flash of Light](https://www.wowhead.com/spell=19750) or [Holy Light](https://www.wowhead.com/spell=82326) will not also transfer healing to that same target's beacon, but will instead refund some of its mana cost. It is generally less efficient to directly heal a beacon target due to missing out on the beacon transfer healing.
+Places a beacon on a target, transferring a percentage of your **raw healing done** to this target. Healing your Beacon of Light target directly will not transfer any healing through that beacon. Casting [Flash of Light](./FlashOfLight.md) or [Holy Light](./HolyLight.md) on a beacon target will refund some of its mana cost, but it is generally less efficient to directly heal a beacon target due to missing out on the beacon transfer healing.
+
+## Interactions
 
 AoE spells transfer healing to beacons at a reduced 50% efficiency. The exact efficiency amounts are:
 
@@ -20,10 +22,14 @@ AoE spells transfer healing to beacons at a reduced 50% efficiency. The exact ef
 | Light of Dawn | 50% |
 | Holy Light | 100% |
 | Flash of Light | 100% |
-| Holy Prism (@enemy) | 50% |
+| Holy Prism (casting on an enemy) | 50% |
 | Holy Prism (direct healing friendly) | 100% |
 | Light's Hammer | 50% |
 | Tyr's Deliverance | 100% |
 | Bestow Faith | 100% |
 | Light of the Martyr (Maraad's) | 100% |
 | Avenging Crusader | 100% |
+
+Beacon of Light healing does not double-dip from any stats; all stat interactions happen on the original heal. The transferred amount is always 40% (or 28% with Beacon of Faith) of the original raw heal.
+
+For Mastery this means your effectiveness depends on the distance to the original heal's target and not to your beacon. In other words, if your [Holy Shock](./HolyShock.md) had 100% Mastery Efficiency on its target, the beacon transfer heal will match that efficiency regardless of the beacon target being 50 yards away or not.
