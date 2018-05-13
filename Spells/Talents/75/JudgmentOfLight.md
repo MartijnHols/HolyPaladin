@@ -13,5 +13,15 @@ Casting [Judgment](../../Judgment.md) on a target applies Judgment of Light with
 - Can be applied to multiple targets (multidotting)
 - Multiple Paladins can apply Judgment of Light at the same time
 - Full health players do **not** consume any stacks. This leads to low overhealing.
-- Does **not** beacon transfer.
 - Auto-attacks, physical abilities and magical spells all consume a stack.
+
+## Interactions
+
+| Effect | Applicable | Explanation |
+| ------ | :--------: | ----------- |
+| Beacon transfers | ✖ | Does not transfer at all |
+| Intellect | ✔ |
+| Critical Strike | ✔ |
+| Haste | ✔ |
+| Mastery | ✔ |
+| Versatility | ✔ |
