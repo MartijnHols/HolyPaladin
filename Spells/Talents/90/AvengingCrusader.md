@@ -11,7 +11,7 @@
 
 ## About
 
-Replaces [Avenging Wrath](../../AvengingWrath.md), does not gain any of its base buffs.
+Replaces [Avenging Wrath](../../AvengingWrath.md), does not gain any of its original benefits.
 
 Increases the damage done by [Crusader Strike](../../CrusaderStrike.md), [Judgment](../../Judgment.md) and auto-attacks by 30%.
 
@@ -20,6 +20,8 @@ The cooldown recovery rate of [Crusader Strike](../../CrusaderStrike.md) and [Ju
 [Crusader Strike](../../CrusaderStrike.md) and [Judgment](../../Judgment.md) heal up to 3 injured allies for 175% of the damage dealt with those abilities. This healing is also replicated to beacons.
 
 Target selection is **not** a [smart heal](https://wow.gamepedia.com/Smart_spell). It picks up to 3 injured allies at random, regardless of the health they're missing. If there are fewer than 3 injured players, it will randomly select full health players. The max range of the heals is 40 yards, which is unaffected by [Rule of Law](../30/RuleOfLaw.md).
+
+You can use [this spreadsheet](https://docs.google.com/spreadsheets/d/1rkdTSbG3k3diyh5kak5ljS0Be4mrZbaACM2w2ImCxvM/edit#gid=0) to play around with different Haste values and see how Avenging Crusader interacts with [Crusader's Might](../15/CrusadersMight.md). In most cases [Crusader's Might](../15/CrusadersMight.md) will at best get you 1 more [Holy Shock](../../HolyShock.md) or [Light of Dawn](../../HolyShock.md) cast.
 
 ## Interactions
 
