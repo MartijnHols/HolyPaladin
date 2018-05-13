@@ -19,7 +19,7 @@ Casting [Judgment](../../Judgment.md) on a target applies Judgment of Light with
 
 | Effect | Applicable | Explanation |
 | ------ | :--------: | ----------- |
-| Beacon transfers | ✖ | Does not transfer at all |
+| Beacon transfers | ❌ | Does not transfer at all |
 | Intellect | ✔ |
 | Critical Strike | ✔ |
 | Haste | ✔ |

@@ -31,5 +31,5 @@ You can use [this spreadsheet](https://docs.google.com/spreadsheets/d/1rkdTSbG3k
 | Intellect | ✔ | CS/J scale with Intellect |
 | Critical Strike | ✔ | If CS/J crit, the heal also [increases](https://user-images.githubusercontent.com/4565223/39959723-1ed3419e-5616-11e8-8986-6d66202f691f.png) |
 | Haste | ✔ | Static cooldown, but Haste allows you to cast more spells that transfer |
-| Mastery | ✖ | CS/J and AC's heal do not scale with Mastery |
+| Mastery | ❌ | CS/J and AC's heal do not scale with Mastery |
 | Versatility | ✔ | CS/J scale with Versatility |

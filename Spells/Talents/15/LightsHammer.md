@@ -24,6 +24,6 @@ Compared to [Bestow Faith](./BestowFaith.md) this requires much fewer GCDs, but 
 | Beacon transfers | 50% | AoE efficiency |
 | Intellect | ✔ |
 | Critical Strike | ✔ |
-| Haste | ✖ | Static cooldown, static amount of ticks, and static tick rate |
+| Haste | ❌ | Static cooldown, static amount of ticks, and static tick rate |
 | Mastery | ✔ |
 | Versatility | ✔ |
