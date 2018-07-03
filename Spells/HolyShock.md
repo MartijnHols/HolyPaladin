@@ -11,7 +11,7 @@
 
 ## About
 
-Can be used to heal an ally, or damage a foe. Holy Shock has a 25% bonus chance to crit on top of your existing Critical Strike chance. When Holy Shock crits, it procs [Infusion of Light](./InfusionOfLight.md), which increases the power of your next [Holy Light](./HolyLight.md) or [Flash of Light](./FlashOfLight.md).
+Can be used to heal an ally, or damage a foe. Holy Shock has a 30% bonus chance to crit on top of your existing Critical Strike chance. When Holy Shock crits, it procs [Infusion of Light](./InfusionOfLight.md), which increases the power of your next [Holy Light](./HolyLight.md) or [Flash of Light](./FlashOfLight.md).
 
 ## Interactions
 
@@ -26,11 +26,11 @@ Can be used to heal an ally, or damage a foe. Holy Shock has a 25% bonus chance 
 
 Holy Shock has the following critical strike chance breakpoints:
 
-- 45%: Holy Shock always crits during [Avenging Wrath](./AvengingWrath.md)
-- 75%: Holy Shock always crits
+- 40%: Holy Shock always crits during [Avenging Wrath](./AvengingWrath.md)
+- 70%: Holy Shock always crits
 
 The Azerite Trait [Divine Illumination](https://beta.wowdb.com/spells/269243-divine-illumination) lowers these breakpoints by 5%.
 
 ## Changes since Legion
 
-- No longer has Critical Strike chance, instead has a 25% bonus chance to crit ([old tooltip](https://user-images.githubusercontent.com/4565223/39967711-16662f48-56c1-11e8-972a-bcdf0b08976f.png)).
+- No longer has Critical Strike chance, instead has a 30% bonus chance to crit ([old tooltip](https://user-images.githubusercontent.com/4565223/39967711-16662f48-56c1-11e8-972a-bcdf0b08976f.png)).
