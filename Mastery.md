@@ -10,4 +10,4 @@ If you are within 10 yards of the player you're healing, your healing will gain 
 
 See [this spreadsheet](https://docs.google.com/spreadsheets/d/1kcIuIYgn61tZoAM6nS_vzGllOuIuMxBZXunDodBTvC0/edit?usp=sharing) for mastery effectiveness scaling.
 
-See also [Rule of Law](./Talents/30/RuleOfLaw.md).
+See also [Rule of Law](./Spells/Talents/30/RuleOfLaw.md).
