@@ -18,6 +18,8 @@ The passive effect is shared with allies within 10 yards, but diminishes based o
 
 Research notes: https://docs.google.com/spreadsheets/d/1X7CmptWKHZ4z-TWdoue1AoJissyOI0GGpys42mrGYec/edit?usp=sharing
 
+According to Sigma (Blizzard class designer), the passive `should be asymptotic to 3%`. About our findings he said `I think you're getting correct behavior up to 10, and inconsistent behavior above that, but it should just flatten out towards 3%`. It currently almost exactly hits the 3% floor at 10 players in range. This would make sense as a design choice as you super rarely are in range of more players. The jump at 27 players to 2.9% seems weird, it might be caused by a rounding error and there aren't a lot of logs with that many people stacked so that I can properly verify, but that would still be strange as we checked many several events in the logs that are available.
+
 ## Changes since Legion
 
 - Old: Passive reduces damage of allies by 20%, split by the number of allies within 10 yards 
