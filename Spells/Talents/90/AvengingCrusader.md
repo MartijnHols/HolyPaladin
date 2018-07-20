@@ -23,6 +23,8 @@ Target selection is **not** a [smart heal](https://wow.gamepedia.com/Smart_spell
 
 You can use [this spreadsheet](https://docs.google.com/spreadsheets/d/1rkdTSbG3k3diyh5kak5ljS0Be4mrZbaACM2w2ImCxvM/edit#gid=0) to play around with different Haste values and see how Avenging Crusader interacts with [Crusader's Might](../15/CrusadersMight.md). In most cases [Crusader's Might](../15/CrusadersMight.md) will at best get you 1 more [Holy Shock](../../HolyShock.md) or [Light of Dawn](../../HolyShock.md) cast.
 
+The two different spells showing in logs separate normal hits and crits. You can identify them by the spell having crit 100% of the time, or never.
+
 ## Interactions
 
 | Effect | Applicable | Explanation |
@@ -33,6 +35,7 @@ You can use [this spreadsheet](https://docs.google.com/spreadsheets/d/1rkdTSbG3k
 | Haste | ✔ | Static cooldown, but Haste allows you to cast more spells that transfer |
 | Mastery | ❌ | CS/J and AC's heal do not scale with Mastery |
 | Versatility | ✔ | CS/J scale with Versatility |
+| Healing increasers | ❌ | It scales off damage 1:1, no healing buffs affect it |
 
 ## Bugs
 
