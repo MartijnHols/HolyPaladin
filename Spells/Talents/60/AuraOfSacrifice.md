@@ -14,7 +14,7 @@ This aura is similar to [Devotion Aura](./DevotionAura.md), but reduces 10% more
 
 Because the damage transfer deactivates when you drop below 75% health, Aura of Sacrifice will be less reliable than [Devotion Aura](./DevotionAura.md). Reliability is important with raid cooldowns, so using [Devotion Aura](./DevotionAura.md) may be advised.
 
-Activating Aura Mastery while already below 75% may lead to the entire cooldown being wasted.
+Activating Aura Mastery while already below 75% may lead to the entire cooldown being wasted, unless you get healed above 75% before the effect is over.
 
 ### Speculation
 
