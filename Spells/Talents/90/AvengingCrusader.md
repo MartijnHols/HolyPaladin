@@ -1,6 +1,6 @@
 # Avenging Crusader
 
-[![Tooltip](https://user-images.githubusercontent.com/4565223/39913530-79e7de88-5502-11e8-918c-5595752105fe.png)](https://beta.wowdb.com/spells/216331-avenging-crusader)
+[![Tooltip](https://user-images.githubusercontent.com/4565223/43037158-8215100e-8d0a-11e8-87c3-699be1a819ad.png)](https://beta.wowdb.com/spells/216331-avenging-crusader)
 
 - Tier 90 talent
 - **Replaces [Avenging Wrath](../../AvengingWrath.md)**
