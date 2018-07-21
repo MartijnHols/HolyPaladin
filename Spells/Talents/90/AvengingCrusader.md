@@ -35,7 +35,7 @@ The two different spells showing in logs separate normal hits and crits. You can
 | Haste | ✔ | Static cooldown, but Haste allows you to cast more spells that transfer |
 | Mastery | ❌ | CS/J and AC's heal do not scale with Mastery |
 | Versatility | ✔ | CS/J scale with Versatility |
-| Healing increasers | ✔ |  |
+| Healing increasers | ✔ | **NOTE:** Ilterendi does **not** boost Judgment because the buff is ineffective until after the healing has gone out. |
 
 Note that the transfer rates in logs might appear inconsistent. This is due to interactions with enemy damage taken (de)buffs and healing increases. Damage gained or lost from enemy damage taken (de)buffs does not transfer through Avenging Crusader. At the same time the healing also gets boosted by healing increases such as from Ilterendi. This combination makes for some wierd and hard to pinpoint numbers:
 
