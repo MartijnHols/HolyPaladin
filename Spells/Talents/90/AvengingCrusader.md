@@ -11,11 +11,7 @@
 
 ## About
 
-Replaces [Avenging Wrath](../../AvengingWrath.md), does not gain any of its original benefits.
-
-Increases the damage done by [Crusader Strike](../../CrusaderStrike.md), [Judgment](../../Judgment.md) and auto-attacks by 30%.
-
-The cooldown recovery rate of [Crusader Strike](../../CrusaderStrike.md) and [Judgment](../../Judgment.md) is increased by 30%. This happens in-game by making every 1 second of cooldown elapse in 0.7 seconds (the cooldown ticks are quicker). The CDR also applies to abilities already on cooldown when AC is cast.
+Replaces [Avenging Wrath](../../AvengingWrath.md), does **not** gain any of its original benefits. Increases the damage done by [Crusader Strike](../../CrusaderStrike.md), [Judgment](../../Judgment.md) and auto-attacks by 30%. The cooldown recovery rate of [Crusader Strike](../../CrusaderStrike.md) and [Judgment](../../Judgment.md) is increased by 30%. This happens in-game by making every 1 second of cooldown elapse in 0.7 seconds (the cooldown ticks are quicker). The CDR also applies to abilities already on cooldown when AC is cast.
 
 [Crusader Strike](../../CrusaderStrike.md) and [Judgment](../../Judgment.md) heal up to 3 injured allies for 250% of the damage dealt with those abilities. This healing is also replicated to beacons.
 
@@ -30,7 +26,7 @@ The two different spells showing in logs separate normal hits and crits. You can
 | Effect | Applicable | Explanation |
 | ------ | :--------: | ----------- |
 | Beacon transfers | 100% | Single target efficiency |
-| Intellect | ✔ | CS/J scale with Intellect |
+| Intellect | ✔ | CS/J scale with Intellect via the AP modifier (104% as of 24 July 2018) |
 | Critical Strike | ✔ | If CS/J crit, the heal also [increases](https://user-images.githubusercontent.com/4565223/39959723-1ed3419e-5616-11e8-8986-6d66202f691f.png) |
 | Haste | ✔ | Static cooldown, but Haste allows you to cast more spells that transfer |
 | Mastery | ❌ | CS/J and AC's heal do not scale with Mastery |
