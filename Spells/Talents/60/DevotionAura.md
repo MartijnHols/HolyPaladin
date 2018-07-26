@@ -14,7 +14,11 @@ During [Aura Mastery](../../AuraMastery.md) this reduces the damage taken of all
 
 The passive effect is shared with allies within 10 yards, but diminishes based on the number of allies. The formula for the applicable damage reduction is `2.25% + (7.75% / n)` where `n` is players in range.
 
-![image](https://user-images.githubusercontent.com/4565223/43018656-98f1ef32-8c5a-11e8-9a53-89cdf8869f79.png)
+![Passive damage reduction per player](https://user-images.githubusercontent.com/4565223/43288709-fa306030-9128-11e8-887f-b642bdcf2e3e.png)
+
+Because the passive effect diminishes slowly as more people get in the aura, its total power gets stronger the more people are affected by it.
+
+![Passive damage reduction total sum of all players](https://user-images.githubusercontent.com/4565223/43288708-fa17a43c-9128-11e8-8721-0b7be2602d7d.png)
 
 Research notes: https://docs.google.com/spreadsheets/d/1X7CmptWKHZ4z-TWdoue1AoJissyOI0GGpys42mrGYec/edit?usp=sharing
 
