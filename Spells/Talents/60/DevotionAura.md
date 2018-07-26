@@ -26,6 +26,11 @@ According to Sigma (Blizzard class designer), the passive `should be asymptotic 
 
 In my log analysis I saw a jump at 27 players to 2.9%. This seems weird and might be caused by a rounding error or some other bug. There aren't a lot of logs with that many people stacked, which makes  verification difficult. It would be strange to be a rounding error or error in our analysis as I checked many several events in the logs that are available.
 
+## Aura comparison
+
+For a detailed aura comparison, see this article by Dreamguard:
+https://sacredshielding.wordpress.com/2018/07/23/reading-the-color-of-your-aura-in-battle-for-azeroth/
+
 ## Changes since Legion
 
 - Old: Passive reduces damage of allies by 20%, split by the number of allies within 10 yards 
