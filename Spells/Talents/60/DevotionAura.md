@@ -22,7 +22,9 @@ Because the passive effect diminishes slowly as more people get in the aura, its
 
 Research notes: https://docs.google.com/spreadsheets/d/1X7CmptWKHZ4z-TWdoue1AoJissyOI0GGpys42mrGYec/edit?usp=sharing
 
-According to Sigma (Blizzard class designer), the passive `should be asymptotic to 3%`. About our findings he said `I think you're getting correct behavior up to 10, and inconsistent behavior above that, but it should just flatten out towards 3%`. It currently almost exactly hits the 3% floor at 10 players in range. This would make sense as a design choice as you super rarely are in range of more players. The jump at 27 players to 2.9% seems weird, it might be caused by a rounding error and there aren't a lot of logs with that many people stacked so that I can properly verify, but that would still be strange as we checked many several events in the logs that are available.
+According to Sigma (Blizzard class designer), the passive `should be asymptotic to 3%`. About our findings he said `I think you're getting correct behavior up to 10, and inconsistent behavior above that, but it should just flatten out towards 3%`. It currently almost exactly hits the 3% floor at 10 players in range. This would make sense as a design choice as you super rarely are in range of more players.
+
+In my log analysis I saw a jump at 27 players to 2.9%. This seems weird and might be caused by a rounding error or some other bug. There aren't a lot of logs with that many people stacked, which makes  verification difficult. It would be strange to be a rounding error or error in our analysis as I checked many several events in the logs that are available.
 
 ## Changes since Legion
 
