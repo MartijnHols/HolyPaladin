@@ -12,19 +12,16 @@ During [Aura Mastery](../../AuraMastery.md) this reduces the damage taken of all
 
 ## About the passive effect
 
-The passive effect is shared with allies within 10 yards, but diminishes based on the number of allies. The formula for the applicable damage reduction is `2.25% + (7.75% / n)` where `n` is players in range.
+The passive effect is shared with allies within 10 yards, but diminishes based on the number of allies. The formula for the applicable damage reduction is `MAX(3%, 2.25% + (7.75% / n))` where `n` is players in range.
 
-![Passive damage reduction per player](https://user-images.githubusercontent.com/4565223/43288709-fa306030-9128-11e8-887f-b642bdcf2e3e.png)
+![Passive damage reduction per player](https://user-images.githubusercontent.com/4565223/43329795-b427ddf4-91c1-11e8-99a1-10de8c026cc8.png)
 
 Because the passive effect diminishes slowly as more people get in the aura, its total power gets stronger the more people are affected by it.
 
-![Passive damage reduction total sum of all players](https://user-images.githubusercontent.com/4565223/43288708-fa17a43c-9128-11e8-8721-0b7be2602d7d.png)
-
+![Passive damage reduction total sum of all players](https://user-images.githubusercontent.com/4565223/43329796-b44026b6-91c1-11e8-879e-22b1ee875c94.png)
 Research notes: https://docs.google.com/spreadsheets/d/1X7CmptWKHZ4z-TWdoue1AoJissyOI0GGpys42mrGYec/edit?usp=sharing
 
-According to Sigma (Blizzard class designer), the passive `should be asymptotic to 3%`. About our findings he said `I think you're getting correct behavior up to 10, and inconsistent behavior above that, but it should just flatten out towards 3%`. It currently almost exactly hits the 3% floor at 10 players in range. This would make sense as a design choice as you super rarely are in range of more players.
-
-In my log analysis I saw a jump at 27 players to 2.9%. This seems weird and might be caused by a rounding error or some other bug. There aren't a lot of logs with that many people stacked, which makes  verification difficult. It would be strange to be a rounding error or error in our analysis as I checked many several events in the logs that are available.
+According to Sigma (Blizzard class designer), the passive `should be asymptotic to 3%`.
 
 ## Aura comparison
 
