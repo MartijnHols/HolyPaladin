@@ -28,6 +28,10 @@ According to Sigma (Blizzard class designer), the passive `should be asymptotic 
 For a detailed aura comparison, see this article by Dreamguard:
 https://sacredshielding.wordpress.com/2018/07/23/reading-the-color-of-your-aura-in-battle-for-azeroth/
 
+## Value analysis
+
+You can see the DRPS value of Devotion Aura (along with the value of the other auras) on my tool [WoWAnalyzer](https://wowanalyzer.com). I also wrote an in-depth article on how the analysis is done: https://github.com/WoWAnalyzer/WoWAnalyzer/blob/master/src/Parser/Paladin/Holy/Modules/Talents/DevotionAuraDamageReduction.md
+
 ## Changes since Legion
 
 - Old: Passive reduces damage of allies by 20%, split by the number of allies within 10 yards 
