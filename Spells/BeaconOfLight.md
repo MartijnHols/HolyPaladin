@@ -27,8 +27,12 @@ AoE spells transfer healing to beacons at a reduced 50% efficiency. The exact ef
 | Light's Hammer | 50% |
 | Tyr's Deliverance | 100% |
 | Bestow Faith | 100% |
-| Light of the Martyr (Maraad's) | 100% |
 | Avenging Crusader | 100% |
+| Grace of the Justicar | 100% |
+| Radiant Incandescence | 100% |
+| Glimmer of Light | 50% |
+
+Most traits behave the same as the spell that trigger the healing.
 
 Beacon of Light healing does not double-dip from any stats; all stat interactions happen on the original heal. The transferred amount is always 40% (or 28% with Beacon of Faith) of the original raw heal.
 
